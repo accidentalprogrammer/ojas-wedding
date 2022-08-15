@@ -36,7 +36,7 @@
     "yarn": ">=1.22.5"
   },
   "scripts": {
-    "start": "vite",
+    "start": "vite --host 0.0.0.0",
     "build": "vite build",
     "test": "jest",
     "postinstall": "husky install"
