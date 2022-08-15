@@ -118,7 +118,7 @@ const App = (): JSX.Element => {
           <code className={styles.headerDescriptionCode}>ESLint</code>,{" "}
           <code className={styles.headerDescriptionCode}>Prettier</code> and{" "}
           <code className={styles.headerDescriptionCode}>
-            Atomic organization for components
+            Atomic organization for component
           </code>
           . Configured and ready to go.
         </p>
